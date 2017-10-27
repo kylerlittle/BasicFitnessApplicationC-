@@ -1,0 +1,12 @@
+Eating Less
+1000
+03/01/2017
+Eating More
+5000
+03/02/2017
+Not Eating
+0
+03/03/2017
+Fasting
+1
+03/04/2017
